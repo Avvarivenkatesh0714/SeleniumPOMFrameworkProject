@@ -1,0 +1,269 @@
+2026-07-25 20:01:09 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:09 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:01:09 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:21 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:01:21 [main] INFO  tests.LoginTest - Verifying Login Page
+2026-07-25 20:01:22 [main] INFO  tests.LoginTest - Login Page Verified Successfully
+2026-07-25 20:01:22 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:01:23 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:01:23 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:23 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:01:23 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:28 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:01:28 [main] INFO  tests.LoginTest - Verifying Page Title
+2026-07-25 20:01:29 [main] INFO  tests.LoginTest - Page Title Verified Successfully
+2026-07-25 20:01:29 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:01:29 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:01:29 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:29 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:01:29 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:36 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:01:36 [main] INFO  tests.LoginTest - Starting Valid Login Test
+2026-07-25 20:01:38 [main] INFO  tests.LoginTest - Valid Login Successful
+2026-07-25 20:01:38 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:01:38 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:01:38 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:38 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:01:38 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:01:44 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:01:44 [main] INFO  tests.LoginTest - Starting Invalid Login Test
+2026-07-25 20:01:46 [main] INFO  tests.LoginTest - Invalid Login Error Verified
+2026-07-25 20:01:46 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:01:47 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:01:47 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:01:47 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:01:47 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:01:52 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:01:54 [main] INFO  tests.CartTest - Adding Backpack to Cart
+2026-07-25 20:01:55 [main] INFO  tests.CartTest - Product Added Successfully
+2026-07-25 20:01:55 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:01:56 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:01:56 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:01:56 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:01:56 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:02:01 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:02:02 [main] INFO  tests.CartTest - Opening Shopping Cart
+2026-07-25 20:02:04 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:02:05 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:02:05 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:02:05 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:02:05 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:02:10 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:02:12 [main] INFO  tests.CartTest - Verifying Product Details
+2026-07-25 20:02:44 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:02:45 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:02:45 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:02:45 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:02:45 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:02:50 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:02:52 [main] INFO  tests.CartTest - Removing Product
+2026-07-25 20:02:53 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:02:54 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:02:54 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:02:54 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:02:54 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:03:00 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:03:02 [main] INFO  tests.CartTest - Verifying Continue Shopping
+2026-07-25 20:03:33 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:03:34 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:03:34 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:03:34 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:03:34 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:03:40 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:03:43 [main] INFO  tests.CheckoutTest - Verifying Checkout Page
+2026-07-25 20:03:43 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:03:44 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:03:44 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:03:44 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:03:44 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:03:50 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:04:23 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:04:24 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:04:24 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:04:24 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:04:24 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:04:30 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:05:03 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:05:04 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:05:04 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:05:04 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:05:04 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:05:09 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:05:12 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:05:13 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:05:13 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:05:13 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:05:13 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:05:18 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:05:21 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:05:21 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:05:21 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:21 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:05:21 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:26 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:05:26 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:05:29 [main] INFO  tests.LogoutTest - Performing Logout
+2026-07-25 20:05:30 [main] INFO  tests.LogoutTest - Logout Successful
+2026-07-25 20:05:30 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:05:30 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:05:30 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:30 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:05:30 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:35 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:05:35 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:05:38 [main] INFO  tests.LogoutTest - Verifying Logout URL
+2026-07-25 20:05:40 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:05:40 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:05:40 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:40 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:05:40 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:46 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:05:46 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:05:48 [main] INFO  tests.LogoutTest - Verifying Login Logo
+2026-07-25 20:05:49 [main] INFO  tests.LogoutTest - Login Logo Verified
+2026-07-25 20:05:49 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:05:49 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:05:49 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:49 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:05:49 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:05:55 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:05:55 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:05:57 [main] INFO  tests.LogoutTest - Verifying Login Page Title
+2026-07-25 20:05:58 [main] INFO  tests.LogoutTest - Login Page Title Verified
+2026-07-25 20:05:58 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:05:58 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:14:00 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:00 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:14:00 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:07 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:14:07 [main] INFO  tests.LoginTest - Verifying Login Page
+2026-07-25 20:14:07 [main] INFO  tests.LoginTest - Login Page Verified Successfully
+2026-07-25 20:14:07 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:14:08 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:14:08 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:08 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:14:08 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - Verifying Page Title
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - Page Title Verified Successfully
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:14:14 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:20 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:14:20 [main] INFO  tests.LoginTest - Starting Valid Login Test
+2026-07-25 20:14:22 [main] INFO  tests.LoginTest - Valid Login Successful
+2026-07-25 20:14:22 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:14:23 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:14:23 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:23 [main] INFO  tests.LoginTest - Starting Test Execution
+2026-07-25 20:14:23 [main] INFO  tests.LoginTest - ========================================
+2026-07-25 20:14:28 [main] INFO  tests.LoginTest - Browser Launched Successfully
+2026-07-25 20:14:28 [main] INFO  tests.LoginTest - Starting Invalid Login Test
+2026-07-25 20:14:30 [main] INFO  tests.LoginTest - Invalid Login Error Verified
+2026-07-25 20:14:30 [main] INFO  tests.LoginTest - Closing Browser
+2026-07-25 20:14:31 [main] INFO  tests.LoginTest - Browser Closed Successfully
+2026-07-25 20:14:31 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:14:31 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:14:31 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:14:36 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:14:38 [main] INFO  tests.CartTest - Adding Backpack to Cart
+2026-07-25 20:14:39 [main] INFO  tests.CartTest - Product Added Successfully
+2026-07-25 20:14:39 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:14:40 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:14:40 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:14:40 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:14:40 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:14:45 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:14:47 [main] INFO  tests.CartTest - Opening Shopping Cart
+2026-07-25 20:14:48 [main] INFO  tests.CartTest - Cart Page Verified
+2026-07-25 20:14:48 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:14:48 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:14:48 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:14:48 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:14:48 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:14:54 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:14:55 [main] INFO  tests.CartTest - Verifying Product Details
+2026-07-25 20:15:27 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:15:29 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:15:29 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:15:29 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:15:29 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:15:34 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:15:36 [main] INFO  tests.CartTest - Removing Product
+2026-07-25 20:16:08 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:16:09 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:16:09 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:16:09 [main] INFO  tests.CartTest - Starting Test Execution
+2026-07-25 20:16:09 [main] INFO  tests.CartTest - ========================================
+2026-07-25 20:16:14 [main] INFO  tests.CartTest - Browser Launched Successfully
+2026-07-25 20:16:16 [main] INFO  tests.CartTest - Verifying Continue Shopping
+2026-07-25 20:16:48 [main] INFO  tests.CartTest - Closing Browser
+2026-07-25 20:16:49 [main] INFO  tests.CartTest - Browser Closed Successfully
+2026-07-25 20:16:49 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:16:49 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:16:49 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:16:54 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:17:28 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:17:29 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:17:29 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:17:29 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:17:29 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:17:34 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:18:07 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:18:07 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:18:07 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:18:07 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:18:07 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:18:13 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:18:46 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:18:47 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:18:47 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:18:47 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:18:47 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:18:52 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:19:25 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:19:26 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:19:26 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:19:26 [main] INFO  tests.CheckoutTest - Starting Test Execution
+2026-07-25 20:19:26 [main] INFO  tests.CheckoutTest - ========================================
+2026-07-25 20:19:31 [main] INFO  tests.CheckoutTest - Browser Launched Successfully
+2026-07-25 20:20:04 [main] INFO  tests.CheckoutTest - Closing Browser
+2026-07-25 20:20:05 [main] INFO  tests.CheckoutTest - Browser Closed Successfully
+2026-07-25 20:20:05 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:05 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:20:05 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:11 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:20:11 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:20:12 [main] INFO  tests.LogoutTest - Performing Logout
+2026-07-25 20:20:13 [main] INFO  tests.LogoutTest - Logout Successful
+2026-07-25 20:20:13 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:20:14 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:20:14 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:14 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:20:14 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:19 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:20:19 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:20:21 [main] INFO  tests.LogoutTest - Verifying Logout URL
+2026-07-25 20:20:22 [main] INFO  tests.LogoutTest - Logout URL Verified
+2026-07-25 20:20:22 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:20:23 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:20:23 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:23 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:20:23 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:28 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:20:28 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:20:30 [main] INFO  tests.LogoutTest - Verifying Login Logo
+2026-07-25 20:20:32 [main] INFO  tests.LogoutTest - Login Logo Verified
+2026-07-25 20:20:32 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:20:32 [main] INFO  tests.LogoutTest - Browser Closed Successfully
+2026-07-25 20:20:32 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:32 [main] INFO  tests.LogoutTest - Starting Test Execution
+2026-07-25 20:20:32 [main] INFO  tests.LogoutTest - ========================================
+2026-07-25 20:20:37 [main] INFO  tests.LogoutTest - Browser Launched Successfully
+2026-07-25 20:20:37 [main] INFO  tests.LogoutTest - Logging into application
+2026-07-25 20:20:40 [main] INFO  tests.LogoutTest - Verifying Login Page Title
+2026-07-25 20:20:41 [main] INFO  tests.LogoutTest - Login Page Title Verified
+2026-07-25 20:20:41 [main] INFO  tests.LogoutTest - Closing Browser
+2026-07-25 20:20:41 [main] INFO  tests.LogoutTest - Browser Closed Successfully
